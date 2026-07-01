@@ -1,0 +1,19 @@
+README.md
+  s_552ead2f20c3bd::t_7479a9324d99ac 827-829,843-845
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "3040496e646e564d88f63ad42d87ea6d38817166",
+  "prompts": {},
+  "sessions": {
+    "s_552ead2f20c3bd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "134a301a-96f0-4d73-aa46-040a7aa054f9",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
